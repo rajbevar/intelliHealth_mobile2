@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922598682613",
+    "firebase_url": "https://intellihealth-e6ff0.firebaseio.com",
+    "project_id": "intellihealth-e6ff0",
+    "storage_bucket": "intellihealth-e6ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922598682613:android:85692813550bdab0f8babc",
+        "android_client_info": {
+          "package_name": "com.healthcare.bosch.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922598682613-dn9c582dp7mf7f4lck5k800h8l8kbm7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAjCZ9w4NZfVe7NDjy_niAo5Cv2oPcto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922598682613-dn9c582dp7mf7f4lck5k800h8l8kbm7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

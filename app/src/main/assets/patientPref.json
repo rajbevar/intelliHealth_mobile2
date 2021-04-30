@@ -1,0 +1,20 @@
+{
+  "Diabetes": {
+    "glucose": 1,
+    "bp": 2,
+    "heart_rate": 3,
+    "temp": 4
+  },
+  "Respiratory problems": {
+    "glucose": 3,
+    "bp": 4,
+    "heart_rate": 1,
+    "temp": 2
+  },
+  "Back pain | Allergic rhinitis": {
+    "glucose": 4,
+    "bp": 1,
+    "heart_rate": 2,
+    "temp": 3
+  }
+}

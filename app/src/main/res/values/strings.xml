@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Intelli Health</string>
+    <string name="error_internet_check">Please check your internet connection</string>
+    <string name="internet_check">Network</string>
+    <!--Validation-->
+    <string name="error_should_not_empty">%1$s should not be empty</string>
+    <string name="error_min_length">%1$s should have at least %2$d characters</string>
+    <string name="error_max_length">%1$s should not have more than %2$d characters</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_password_mismatch">Password mismatched</string>
+    <string name="error_general">this field </string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="username">Username</string>
+    <string name="error_otp">Please enter 4 Digit OTP</string>
+    <string name="validation_error">Validation Failed</string>
+    <string name="start_rec">Start recording</string>
+
+     <string name="aar_save">Save</string>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_playing">Playing</string>
+    <string name="snooze">Snooze</string>
+    <string name="accept">Accept</string>
+    <string name="spinner_title">Choose Reason</string>
+
+</resources>

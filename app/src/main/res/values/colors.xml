@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#65B9E7</color>
+    <color name="colorPrimaryDark">#6FB0D3</color>
+    <color name="colorAccent">#87C4E5</color>
+    <!--progressBarColor -->
+    <color name="progressBarColor">#FF4081</color>
+    <color name="color_black">#000000</color>
+    <color name="color_black_0">#5E5B5B</color>
+    <color name="black">#000000</color>
+
+    <color name="color1">#3164d7</color>
+    <color name="color2">#d92d29</color>
+    <color name="color3">#eeaa10</color>
+    <color name="color4">#D731D4</color>
+    <color name="color5">#2e9641</color>
+    <color name="colorDanger">#9AFD0808</color>
+    <color name="colorDanger1">#CEFFEB3B</color>
+    <color name="colorDanger2">#BF4CAF50</color>
+    <color name="orange_700">#000000</color>
+
+
+    <!-- page indicator -->
+    <color name="line_default_color">#e4e4e4</color>
+    <color name="line_selection_color">#ffffff</color>
+    <color name="brown_700">#A34545</color>
+    <color name="blue_grey_700">#e4e4e4</color>
+    <color name="eventColor">#553fa9eb</color>
+    <color name="yellow_200">#FFC600</color>
+    <color name="eventColorSelected">#aab2c99a</color>
+    <color name="upcomingMedication">#FF9800</color>
+    <color name="labResults">#3F51B5</color>
+    <color name="white">#ffffff</color>
+    <color name="grey_500">#e4e4e4</color>
+    <color name="grey_600">#e4e4e4</color>
+    <color name="green_900">#6FB0D3</color>
+    <color name="green_800">#6FB0D3</color>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="@dimen/dp_10">
+
+    <TextView
+        android:id="@+id/line1TextView"
+        android:layout_width="30dp"
+        android:layout_height="2dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/line_selection"
+        android:textColor="@color/line_selection_color"
+        android:textSize="@dimen/header_text" />
+
+    <TextView
+        android:id="@+id/line2TextView"
+        android:layout_width="30dp"
+        android:layout_height="2dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/line_default"
+        android:textColor="@color/line_selection_color"
+        android:textSize="@dimen/header_text" />
+
+    <TextView
+        android:id="@+id/line3TextView"
+        android:layout_width="30dp"
+        android:layout_height="2dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/line_default"
+        android:textColor="@color/line_selection_color"
+        android:textSize="@dimen/header_text" />
+
+    <TextView
+        android:id="@+id/line4TextView"
+        android:layout_width="30dp"
+        android:layout_height="2dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/line_default"
+        android:textColor="@color/line_selection_color"
+        android:textSize="@dimen/header_text" />
+
+</LinearLayout>
